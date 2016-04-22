@@ -1,6 +1,6 @@
 # Site
 title:              CloudLunar
-bio:                'A indie game developer.'
+bio:                '{ A indie game developer }'
 description:        "A indie game developer."
 reading_time:       true
 words_per_minute:   200
@@ -39,7 +39,7 @@ disqus_shortname:   CloudLunar
 #email:
 #twitter:            username
 #facebook:           username
-github:             CloudLunar
+#github:             CloudLunar
 #stackoverflow:      123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:           username
 #xing:              username
@@ -67,4 +67,4 @@ jekyll-mentions:
     base_url: https://github.com
 
 # Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile,.sass-cache,_post_templates]
