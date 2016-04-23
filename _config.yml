@@ -27,6 +27,8 @@ sass:
 # Comments
 disqus_shortname:   CloudLunar
 #duoshuo_shortname:   cloudlunarwiki
+# Analytics
+baidu_analytics:   fd17804e89cc976e2824db5772be3885
 # Social
 # if you don't have any of social below, comment the line.
 #google:
