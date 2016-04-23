@@ -5,21 +5,32 @@ tags: [about]
 date: 2016-04-23
 ---
 ## About me
-I am a student interested in design, painting and programing dreaming to be a good game designer and bring awesome indie games to the world.
+I am a student interested in designing, painting and programing, dreaming to be a good game designer and bring awesome indie games to the world.
 
 ## Attributes
-.School
+**.School**
+
 {
-	2011-2014: Fuzhou No.1 High School;
-	2014-？: Computer School in Wuhan University;
+
+2011-2014: [Fuzhou No.1 High School](http://fzyz.net);
+	
+2014-?: [Computer School in Wuhan University](http://cs.whu.edu.cn);
+	
 }
-.Social
+
+**.Social**
+
 {
-	Weibo:@CloudLunar http://weibo.com/cloudlunar ;
-	Twitter: @cloudlunar https://twitter.com/cloudlunar ;
-	Facebook: https://www.facebook.com/cloudlunar.q ;
-	Bilibili: http://space.bilibili.com/10489053 ;
-}
+
+Weibo: [@CloudLunar](http://weibo.com/cloudlunar);
+
+Twitter: [@cloudlunar](https://twitter.com/cloudlunar);
+
+Facebook: [cloudlunar.q](https://www.facebook.com/cloudlunar.q);
+
+Bilibili: [cloudlunar](http://space.bilibili.com/10489053); 
+
+} 
 
 ## About the Website
 * This homepage is host in Github Pages powered by Jekyll. The theme is modified from [Moon](http://taylantatli.github.io/Moon).
