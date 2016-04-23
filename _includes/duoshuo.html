@@ -7,7 +7,7 @@ layout: compress
 			
 {% if page.comments and site.duoshuo_shortname %}
 <!-- 多说评论框 start -->
-	<div id="disqus_thread" class="ds-thread animated fadeInUp" data-author-key="1" data-thread-key="{{ page.url }}" data-title="{{ page.title }}" data-url="{{ page.url | prepended base.url }}"></div>
+	<section id="duoshuo_thread" class="animated fadeInUp"><div class="ds-thread" data-author-key="1" data-thread-key="{{ page.url }}" data-title="{{ page.title }}" data-url="{{ site.url }}{{ page.url }}"></div></section>
 <!-- 多说评论框 end -->
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
