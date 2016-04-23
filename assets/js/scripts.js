@@ -14,10 +14,10 @@ $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gi
 $(function() {
   $(".content").fitVids();
 });
+	$("body").lazyload({effect : "fadeIn"});
 // All others
 $(document).ready(function() {
     // zoom in/zoom out animations
-	$("body").lazyload({effect : "fadeIn"});
     if ($(".container").hasClass('fadeOut')) {
         $(".container").removeClass("fadeOut").addClass("fadeIn");
     }
