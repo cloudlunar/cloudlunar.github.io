@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^view/*$ http://blog.cloudlunar.com/view/$1 [R=301,NC,L]
+RewriteRule ^index.php$ http://blog.cloudlunar.com/index.php[R=301,NC,L]
+
