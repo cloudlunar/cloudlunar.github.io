@@ -1,7 +1,7 @@
 # Site
 title:              CloudLunar
-bio:                '{ To be a game designer }'
-description:        "To be a game designer"
+bio:                '{ 一个游戏设计师 }'
+description:        "一个游戏设计师"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -39,9 +39,9 @@ baidu_analytics:   fd17804e89cc976e2824db5772be3885
   #ad-slot:
 #bing-verify:
 email:			s@cloudlunar.com
-twitter:            CloudLunar
+#twitter:            CloudLunar
 #facebook:           username
-github:             CloudLunar
+#github:             CloudLunar
 #stackoverflow:      123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:           username
 #xing:              username
@@ -54,7 +54,7 @@ steam:              CloudLunar
 #dribbble:          username
 #youtube:            username
 #soundcloud:        username
-weibo:             CloudLunar
+#weibo:             CloudLunar
 #flickr:            username
 #codepen:           username
 
