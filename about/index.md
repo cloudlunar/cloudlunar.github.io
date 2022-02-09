@@ -1,38 +1,17 @@
 ---
 layout: page
-title: About Me
+title: 关于我
 tags: [about]
-date: 2016-04-23
+date: 2022-02-09
 ---
-## About me
-I am a student interested in designing, painting and programing, dreaming to be a good game designer and bring awesome indie games to the world.
+## 关于我
+一个游戏设计师.
 
-## Attributes
-**.School**
-
-{
-
-2011-2014: [Fuzhou No.1 High School](http://fzyz.net);
+2011-2014: [福州一中](http://fzyz.net);
 	
-2014-?: [Computer School in Wuhan University](http://cs.whu.edu.cn);
-	
-}
+2014-2018: [武汉大学](http://cs.whu.edu.cn);
 
-**.Social**
+2018-now: [腾讯游戏](http://game.qq.com);
 
-{
-
-Weibo: [@CloudLunar](http://weibo.com/cloudlunar);
-
-Twitter: [@cloudlunar](https://twitter.com/cloudlunar);
-
-Facebook: [cloudlunar.q](https://www.facebook.com/cloudlunar.q);
-
-Bilibili: [cloudlunar](http://space.bilibili.com/10489053); 
-
-} 
-
-## About the Website
-* This homepage is host in Github Pages powered by Jekyll. The theme is modified from [Moon](http://taylantatli.github.io/Moon).
-* The forum is powered by a special version of [flarum](http://flarum.ga/).
-* My personal blog is modified from MediaWiki. You can visit [this article(in Chinese)](http://blog.cloudlunar.com/view/Hello,_world) for details.
+## 关于本站
+* 本站使用 Github Pages 和 Jekyll. 主题修改自 [Moon](http://taylantatli.github.io/Moon).
