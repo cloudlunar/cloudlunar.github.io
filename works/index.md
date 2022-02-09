@@ -1,5 +1,5 @@
 ---
 layout: project
-title: Works
-excerpt: "A List of Works"
+title: 作品集
+excerpt: "参与的游戏作品"
 ---
